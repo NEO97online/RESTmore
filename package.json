@@ -1,0 +1,19 @@
+{
+  "name": "restmore",
+  "version": "0.1.0-alpha.0",
+  "description": "Simple and effective REST framework with build-in support for client-side mocking.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Auderer",
+  "license": "ISC",
+  "repository": "https://github.com/auderer/restmore",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
