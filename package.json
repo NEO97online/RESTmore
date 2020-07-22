@@ -1,7 +1,7 @@
 {
   "name": "restmore",
   "version": "0.1.0-alpha.0",
-  "description": "Simple and effective REST framework with build-in support for client-side mocking.",
+  "description": "Simple and effective REST framework with built-in support for client-side mocking.",
   "main": "index.js",
   "directories": {
     "example": "example"
